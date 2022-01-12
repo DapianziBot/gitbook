@@ -1,3 +1,7 @@
+---
+description: Official Axie Infinity Whitepaper, last updated November 2021
+---
+
 # Keyboard Shortcuts
 
 {% hint style="info" %}
