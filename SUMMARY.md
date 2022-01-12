@@ -1,5 +1,4 @@
 # Table of contents
 
 * [What is MyProduct?](README.md)
-
-* [Extras](extras/README.md)
+* [Roadmap and completed milestones](extras/README.md)
