@@ -1,71 +1,27 @@
-# What is MyProduct?
+---
+description: Official Axie Infinity Whitepaper, last updated November 2021
+---
+# Axie Infinity
 
-{% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
-{% endhint %}
+![embed](https://whitepaper.axieinfinity.com/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LocuLeNcXinpTOZxNu0%2F-MKQ7ueQMwE1Nn5oSPiA%2F-MKQ8tpDfKtUlAq2_69b%2FHQ%20Banner.png?alt=media&token=55cea856-b239-497a-bac9-3ddfdd33ce62)
+{% embed url="https://whitepaper.axieinfinity.com/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LocuLeNcXinpTOZxNu0%2F-MKQ7ueQMwE1Nn5oSPiA%2F-MKQ8tpDfKtUlAq2_69b%2FHQ%20Banner.png?alt=media&token=55cea856-b239-497a-bac9-3ddfdd33ce62" %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+----
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+## Axie Infinity Universe
+Axie Infinity is a game universe filled with fascinating creatures, Axies, that players can collect as pets. Players aim to battle, breed, collect, raise, and build kingdoms for their Axies. The universe has a player-owned economy where players can truly own, buy, sell, and trade resources they earn in the game through skilled-gameplay and contributions to the ecosystem.
+There are and will be many varied games experiences for Axies. Many of them will have players compete with each other using complex strategies and tactics to attain top rankings or be rewarded with coveted resources. Others will have them complete quests, defeat bosses, and unlock in-depth storylines.
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
-
-## Getting Started
-
-**Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
-
-### Guides: Jump right in
-
-Follow our handy guides to get started on the basics as quickly as possible:
-
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
-{% endcontent-ref %}
-
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
-{% endcontent-ref %}
-
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
+## Community & Economy
+All art assets and Axie genetic data can be easily accessed by 3rd parties, allowing community developers to build their own tools and experiences in the Axie Infinity universe. While still in early access, Axie is ranked the #1 Ethereum game by daily, weekly, and monthly active users. Players have spent over 1M ETH (3B+ USD) so far to progress in the game.
+While Axie is a fun game, it's also taken on characteristics of a social network and earning platform due to the strong community and opportunity to truly own resources earned within the games.
+A key difference between Axie and a traditional game is that Blockchain economic design unlocks the ability to have complex player-owned economies and reward players who are able to reach advanced levels of skill. Players are able to have fun and work towards ambitious goals while simultaneously earning potential resources that will have real monetary value due to an open economic system and demand from other players - “Play-and-Earn”.
+Currently, players can gain more resources to advance in the game by taking actions such as: 
+Competing in Battles to win leaderboard prizes as well as Smooth Love Potions (SLP) 
+Breeding Axies to produce new ones with particular Body Part combinations 
+Collecting and speculating on rare Axies such as Mystics and Origins
+## Mission
+Create an ecosystem of amazing Axie gaming experiences with community and player-owned economies as foundational pillars.
+## Vision
+A digital nation where people globally come together with their Axies to play, earn, and live.
+Welcome to our revolution.
