@@ -2,4 +2,4 @@
 
 * [What is MyProduct?](README.md)
 
-## [Extras](extras/README.md)
+* [Extras](extras/README.md)
